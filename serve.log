@@ -1,0 +1,18 @@
+127.0.0.1 "GET / HTTP/1.1" 200 -
+127.0.0.1 "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 "GET /logo.png HTTP/1.1" 200 -
+127.0.0.1 "GET /matrix.js HTTP/1.1" 200 -
+127.0.0.1 "GET /launch.js?v=1402z HTTP/1.1" 200 -
+127.0.0.1 "GET /go-z.html?t=1794410960224 HTTP/1.1" 200 -
+127.0.0.1 "GET /launch.html?v=1402z&log=1&afterglow=run&mode=kpstep&g=drain:16&g=drainsz:0x4000 HTTP/1.1" 200 -
+127.0.0.1 code 404, message File not found
+127.0.0.1 "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 "GET /jb-g.js?v=1402zh HTTP/1.1" 200 -
+127.0.0.1 "GET /core.js?v=1402 HTTP/1.1" 200 -
+127.0.0.1 "GET /mem.js?v=1402 HTTP/1.1" 200 -
+127.0.0.1 "GET /int64.js?v=1402 HTTP/1.1" 200 -
+127.0.0.1 "GET /ps4_offsets.js?v=1402 HTTP/1.1" 200 -
+127.0.0.1 "GET /int64.js HTTP/1.1" 200 -
+127.0.0.1 "GET /core.js HTTP/1.1" 200 -
+127.0.0.1 code 404, message File not found
+127.0.0.1 "GET /favicon.ico HTTP/1.1" 404 -
